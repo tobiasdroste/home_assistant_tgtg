@@ -28,7 +28,6 @@ sensor:
   refresh_token: "abc123"
   user_id: "123"
 
-  # Optional: email so you know which account is used
   username: 'Your TGTG mail'
 
   # Optional: Refresh the stock every 15 minutes
